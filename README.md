@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# DEATH-STAR
+# GHOST
 
 _website design project_
 
@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://anapuskitapus.github.io/44-grupe-ghost/
 
-Design: [DEATH-STAR](https://dribbble.com/shots/1799551-Page-Cannot-Be-Found/attachments/8986681?mode=media)
+Design: [GHOST](https://dribbble.com/shots/1799551-Page-Cannot-Be-Found/attachments/8986681?mode=media)
 
 ## 🎯 Project features/goals
 
